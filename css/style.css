@@ -128,7 +128,7 @@ ol, ul {
     height: 450px;
     flex-shrink: 0;
     border-radius: 100%;
-    background-image: url("/assets/images/me.jpg");
+    background-image: url("../assets/images/me.jpg");
     background-size:125%;
     background-repeat: no-repeat;
     background-position: top 0 right 0;
@@ -148,7 +148,7 @@ ol, ul {
 }
 
 .important {
-    background-image: url("/assets/images/background-important.jpg");
+    background-image: url("../assets/images/important-background.jpg");
     height: 665px;
     background-size: cover;
 }
@@ -216,7 +216,7 @@ ol, ul {
 .advantages__bottom {
     margin-top: 100px;
     height: 851px;
-    background-image: url("/assets/images/advantages-background.jpg");
+    background-image: url("../assets/images/advantages-background.jpg");
     background-repeat: no-repeat;
     background-position: right;
 }
